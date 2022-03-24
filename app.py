@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import joblib
 import streamlit as st
+import lightgbm
 from lightgbm import LGBMRegressor
 from scipy import stats
 
