@@ -3,6 +3,8 @@ import numpy as np
 import joblib
 import streamlit as st
 from scipy import stats
+import lightgbm
+from lightgbm import LGBMRegressor
 
 st.markdown('## Estimating Mechanical Properties of Steels')
 st.markdown("---")
