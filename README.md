@@ -12,7 +12,7 @@
 *  Lastly mechanical properties including tensile strength, yield strength, elongation and reduction in area are given in separate columns. The dataset contains 915 rows.
 
 ## My work
-* My aim for this Project is to analyse and transform the available data to make it fit to be used for model training.
+* My aim for this Project was to analyse and transform the available data to make it fit to be used for model training.
 * After that to use this data for building a model that accurately predicts the mechanical properties of steels.
 * To achieve this I have first visualized the distribution of features and targets and transformed them so as to make them suitable for using in model training.
 * I have further improved the performance of the model by tunning its hyperparameters using Optuna framework.
